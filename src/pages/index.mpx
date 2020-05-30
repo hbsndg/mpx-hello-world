@@ -1,0 +1,27 @@
+<template>
+  <view class="home">Hello World</view>
+</template>
+
+<script>
+  import { createPage } from '@mpxjs/core'
+
+  createPage({
+    onLoad () {
+      console.log("App is run ,https://github.com/hbsndg/map-hello-world");
+    }
+  })
+</script>
+<style type="css">
+  .home{
+    font-size: 26px;
+    text-align: center;
+    margin: 50% auto;
+  }
+</style>
+
+<script type="application/json">
+  {
+    "usingComponents": {
+    }
+  }
+</script>

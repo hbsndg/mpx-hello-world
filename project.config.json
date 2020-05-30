@@ -1,0 +1,15 @@
+{
+  "compileType": "miniprogram",
+  "setting": {
+    "newFeature": true,
+    "urlCheck": true,
+    "es6": false,
+    "postcss": true,
+    "minified": false,
+    "autoAudits": false
+  },
+  "appid": "wx721e05bf0e407650",
+  "projectname": "mpx-hello-world",
+  "description": "mpx-hello-world",
+  "condition": {}
+}
