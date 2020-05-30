@@ -1,6 +1,6 @@
 
 #map-hello-world
-简单的mpx入门程序
+##简单的mpx入门程序
 
 ##前提
 * 了解微信小程序整个架构、语法，参见[微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
