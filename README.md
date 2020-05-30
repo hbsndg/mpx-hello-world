@@ -1,12 +1,13 @@
+
 #map-hello-world
 简单的mpx入门程序
 
 ##前提
-1.了解微信小程序整个架构、语法，参见[微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+* 了解微信小程序整个架构、语法，参见[微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
-2.了解mpx架构、语法,参加[mpx官方文档](https://didi.github.io/mpx/)
+* 了解mpx架构、语法,参加[mpx官方文档](https://didi.github.io/mpx/)
 
-3.本项目为了方便您学习掌握mpx
+* 本项目为了方便您学习掌握mpx
 
 ##安装使用
 ```bash
